@@ -52,7 +52,11 @@ One of the most critical takeaways from this project is that your UPI PIN is onl
 🔗 Contact & Professional Links
 
 Stack Overflow: https://stackoverflow.com/users/32556533/abhiraj-sinha
+
 Google Form: https://docs.google.com/forms/d/e/1FAIpQLSefQvFEObVeN7vcz_7RfgnzCWBILYHunkVf60837MH0KOOcgQ/viewform?usp=publish-editor
+
 Hackerrank: https://www.hackerrank.com/profile/abhiraj_25bai101
+
 kaggle: https://www.kaggle.com/abhirajsinha255
+
 This project was completed as part of the Digital Literacy & Professional Development Module at VIT Bhopal University.
